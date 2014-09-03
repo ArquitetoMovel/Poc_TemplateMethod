@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="POC_TemplateMethod.Modelo.ChurrascoPlus">
+    <Position X="5.75" Y="2.5" Width="2.75" />
+    <InheritanceLine Type="POC_TemplateMethod.Modelo.Receita" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="4.875" Y="1.988" />
+        <Point X="4.875" Y="2.273" />
+        <Point X="7.125" Y="2.273" />
+        <Point X="7.125" Y="2.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Modelo\ChurrascoPlus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POC_TemplateMethod.Modelo.Receita">
+    <Position X="3.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAUAAAAA=</HashCode>
+      <FileName>Modelo\Receita.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="POC_TemplateMethod.Modelo.FrangoX">
+    <Position X="0.5" Y="2.5" Width="3" />
+    <InheritanceLine Type="POC_TemplateMethod.Modelo.Receita" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="4" Y="1.988" />
+        <Point X="4" Y="2.289" />
+        <Point X="2" Y="2.289" />
+        <Point X="2" Y="2.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Modelo\FrangoX.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

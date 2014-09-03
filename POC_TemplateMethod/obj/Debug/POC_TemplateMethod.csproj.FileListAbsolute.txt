@@ -1,0 +1,9 @@
+X:\Visual Studio 2013\Projects\POC_TemplateMethod\POC_TemplateMethod\bin\Debug\POC_TemplateMethod.exe.config
+X:\Visual Studio 2013\Projects\POC_TemplateMethod\POC_TemplateMethod\bin\Debug\POC_TemplateMethod.exe
+X:\Visual Studio 2013\Projects\POC_TemplateMethod\POC_TemplateMethod\bin\Debug\POC_TemplateMethod.pdb
+X:\Visual Studio 2013\Projects\POC_TemplateMethod\POC_TemplateMethod\obj\Debug\POC_TemplateMethod.csprojResolveAssemblyReference.cache
+X:\Visual Studio 2013\Projects\POC_TemplateMethod\POC_TemplateMethod\obj\Debug\POC_TemplateMethod.exe
+X:\Visual Studio 2013\Projects\POC_TemplateMethod\POC_TemplateMethod\obj\Debug\POC_TemplateMethod.pdb
+X:\Source\POC_TemplateMethod\POC_TemplateMethod\bin\Debug\POC_TemplateMethod.exe.config
+X:\Source\POC_TemplateMethod\POC_TemplateMethod\obj\Debug\POC_TemplateMethod.exe
+X:\Source\POC_TemplateMethod\POC_TemplateMethod\obj\Debug\POC_TemplateMethod.pdb
